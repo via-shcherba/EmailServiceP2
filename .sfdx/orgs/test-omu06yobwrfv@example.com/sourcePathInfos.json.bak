@@ -1,0 +1,616 @@
+[
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240343,
+            "changeTime": 1579611240343,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240343,
+            "changeTime": 1579611240343,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240424,
+            "changeTime": 1579611240424,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240343,
+            "changeTime": 1579611240343,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240343,
+            "changeTime": 1579611240343,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579774191831,
+            "changeTime": 1579774191831,
+            "contentHash": "b17d5ebacd20fa281a1adb397941f1620de8bb7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\EmailReader.cls",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\EmailReader.cls",
+            "isDirectory": false,
+            "size": 3994,
+            "modifiedTime": 1579767310853,
+            "changeTime": 1579767310853,
+            "contentHash": "032a0dca639007dc2bc9d36f8a9124527fb029d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\EmailReader.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\EmailReader.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1579708092730,
+            "changeTime": 1579708092729,
+            "contentHash": "f94e19c1ad6631b922c4749063745f08342d80f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingMassEmail.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingMassEmail.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 485,
+            "modifiedTime": 1579777304005,
+            "changeTime": 1579777304005,
+            "isWorkspace": false,
+            "contentHash": "9ac72db7ef7a207bd0a678a400953a5348127fa3"
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingMassEmail.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingMassEmail.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1579774191829,
+            "changeTime": 1579774191829,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingTriggerHandler.cls",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 2233,
+            "modifiedTime": 1579774202694,
+            "changeTime": 1579774202694,
+            "contentHash": "5cb13fe2f590227c28d1a9d5c26eaff432631632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\MeetingTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1579767419653,
+            "changeTime": 1579767419653,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\myEmailServiceHandler.cls",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\myEmailServiceHandler.cls",
+            "isDirectory": false,
+            "size": 1232,
+            "modifiedTime": 1579767231430,
+            "changeTime": 1579767231430,
+            "contentHash": "78a9f487f72f9f20c015e982c919554a8c619311",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\myEmailServiceHandler.cls-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\classes\\myEmailServiceHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1579612464488,
+            "changeTime": 1579612464488,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240344,
+            "changeTime": 1579611240344,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240344,
+            "changeTime": 1579611240344,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240345,
+            "changeTime": 1579611240345,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611350932,
+            "changeTime": 1579611350932,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579766755926,
+            "changeTime": 1579766755926,
+            "contentHash": "a3ed5de8aea994487a0a2feabc9878b2d07e2911",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579766755950,
+            "changeTime": 1579766755950,
+            "contentHash": "8e45a977367fbf97d2c7de72a2982c58e032e039",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\DaysOfWeek__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\DaysOfWeek__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 327,
+            "modifiedTime": 1579766755946,
+            "changeTime": 1579766755946,
+            "contentHash": "a9afb6cfa4ff5b2a79317c796a1ecaad21fcd105",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\fields",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579766755951,
+            "changeTime": 1579766755951,
+            "contentHash": "e25c8a846a307a8a700374f34efc25f1829b7cc5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\fields\\Num__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\DaysOfWeek__c\\fields\\Num__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 380,
+            "modifiedTime": 1579766755951,
+            "changeTime": 1579766755951,
+            "contentHash": "5b0c931553a8fc3b9b92c9db86345c207b41e830",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579766621227,
+            "changeTime": 1579766621227,
+            "contentHash": "90d590371bbe577f8b176f3b871f0d00d264139f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579769874108,
+            "changeTime": 1579769874108,
+            "contentHash": "a33aa70f185222d5376aca0186507e28210e3192",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Account__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 500,
+            "modifiedTime": 1579769874108,
+            "changeTime": 1579769874108,
+            "contentHash": "1afaddedc553d75278f2ab2e9b1bd77e98daae86",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\AddressFrom__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\AddressFrom__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1579766621205,
+            "changeTime": 1579766621205,
+            "contentHash": "d4359e9c86f65cc57a24555a6730599832b81ffc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\ApoinmentDateTime__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\ApoinmentDateTime__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1579766621209,
+            "changeTime": 1579766621209,
+            "contentHash": "5a173b0150780cdcf11bed9f77748f80469c8cd8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\FromName__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\FromName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1579766621214,
+            "changeTime": 1579766621214,
+            "contentHash": "0a7197c2d6527c6317aabfe3d284706244133a2c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Place__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Place__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1579766621218,
+            "changeTime": 1579766621218,
+            "contentHash": "bb524253816b9a585e02f092524c22a0ec3454e6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Subject__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\fields\\Subject__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1579766621222,
+            "changeTime": 1579766621222,
+            "contentHash": "8a9e06b6ca75039f968d1be9d39c15c56ec8c58d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\listViews",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579766621227,
+            "changeTime": 1579766621227,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1579766621227,
+            "changeTime": 1579766621227,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\Meeting__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\objects\\Meeting__c\\Meeting__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5157,
+            "modifiedTime": 1579766621169,
+            "changeTime": 1579766621169,
+            "contentHash": "94c34595a58711aef53b277fa74ae6886828544c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240346,
+            "changeTime": 1579611240346,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240346,
+            "changeTime": 1579611240346,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611240346,
+            "changeTime": 1579611240346,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579767128694,
+            "changeTime": 1579767128694,
+            "contentHash": "d13b7efda4b087f6bd444484441caab9fd252c5c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers\\MeetingTrigger.trigger",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers\\MeetingTrigger.trigger",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1579767629176,
+            "changeTime": 1579767629176,
+            "contentHash": "1e3ab41dd533275c8ede01f9167d7ac0a4dc3616",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers\\MeetingTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2\\force-app\\main\\default\\triggers\\MeetingTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1579767128687,
+            "changeTime": 1579767128687,
+            "contentHash": "016e4fce40a2a732b539f57f7da127ae55c24c7b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\InternshipP2\\emailServiceP2",
+        {
+            "sourcePath": "D:\\InternshipP2\\emailServiceP2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1579611261584,
+            "changeTime": 1579611261584,
+            "contentHash": "c2de1dbd731fc4c395e93f34a0d51ba3e8ca0069",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
