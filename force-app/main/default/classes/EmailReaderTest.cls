@@ -1,6 +1,6 @@
 @isTest
 private class EmailReaderTest {
-    @testSetup static void setup() {
+    @testSetup static void dataFactory() {
         List<DaysOfWeek__c> dowks = new List<DaysOfWeek__c>();
         DaysOfWeek__c dof1 = new DaysOfWeek__c();
         dof1.Num__c = 0;
@@ -31,15 +31,6 @@ private class EmailReaderTest {
         dof7.Name = 'Sunday';
         dowks.add(dof7);
         insert dowks;
-    }
-    
-    @isTest static void getNumberOfDayTest() {
-        String str = 'Saturday';
-        Test.startTest();
-        Integer actual = EmailReader.getNumberOfDay(str);
-        Test.stopTest();
-        Integer expected = 5;
-        System.assertEquals(expected, actual);
     }
     
     @isTest static void getMeetingTimeV12Test() {

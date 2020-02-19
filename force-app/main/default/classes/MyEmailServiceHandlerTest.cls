@@ -1,6 +1,6 @@
 @isTest
 private class MyEmailServiceHandlerTest {
-	@testSetup static void setup() {
+	@testSetup static void dataFactory() {
         List<DaysOfWeek__c> dowks = new List<DaysOfWeek__c>();
         DaysOfWeek__c dof1 = new DaysOfWeek__c();
         dof1.Num__c = 0;

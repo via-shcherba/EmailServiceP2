@@ -4,15 +4,20 @@ public class OpportunityTriggerHelper {
     
     public OpportunityTriggerHelper(Map<Id, Opportunity> newRecords) {
         this.newRecords = newRecords;
+        if (trigger.isAfter) {
+            if (trigger.isInsert) {
+                run(); 
+            }
+        }
     }
     
     public void run() {        
-        if (!newRecords.isEmpty()) {            
+        if (!newRecords.isEmpty()) {                  
             Map<Id, Contact> contacts = new Map<Id, Contact>([SELECT Id FROM Contact LIMIT 10]); 
             List<OpportunityContactRole> newOppCntRoles = new List<OpportunityContactRole>();
             List<Id> contactIds = new List<Id>();
-            List<Id> opportynityIds = new List<Id>();
-            if (!contacts.isEmpty()) {
+            List<Id> opportynityIds = new List<Id>();           
+            if (!contacts.isEmpty()) {                
             	for (Id opportunityId : newRecords.keySet()) {            	
                 	for (Contact contact : contacts.values()) {
                     	OpportunityContactRole newOppCntRole = new OpportunityContactRole();
@@ -24,9 +29,13 @@ public class OpportunityTriggerHelper {
                  	}	                       
             	}
             }
-            if (!newOppCntRoles.isEmpty()) {                
-            	insert newOppCntRoles;                      
-                MeetingMassEmail.send(contactIds, opportynityIds);                
+            if (!newOppCntRoles.isEmpty()) {
+                try {                
+            	    insert newOppCntRoles;                      
+                    MeetingMassEmail.send(contactIds, opportynityIds);  
+                } catch(Exception e) {
+                    //LogObject <- e.getMessage();
+                }              
             }
             
         }
